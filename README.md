@@ -1,2 +1,2 @@
 # resume
- Adding my firstDjango webiste to githun
+ Created my first django website
